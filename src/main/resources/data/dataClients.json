@@ -1,0 +1,50 @@
+[
+  {
+    "type": "pro",
+    "referenceClient": "EKL123456789",
+    "siret": "123456789",
+    "raisonSociale": "Entreprise ABC",
+    "ca": 1500000.0,
+    "energyType": "ELECTRICITY"
+  },
+  {
+      "type": "particulier",
+      "referenceClient": "EKL987654321",
+      "civilite": "Monsieur",
+      "nom": "Doe",
+      "prenom": "John",
+      "energyType": "ELECTRICITY_GAZ"
+  },
+  {
+    "type": "pro",
+    "referenceClient": "EKL234567890",
+    "siret": "234567890",
+    "raisonSociale": "Société XYZ",
+    "ca": 800000.0,
+    "energyType": "GAZ"
+  },
+  {
+    "type": "particulier",
+    "referenceClient": "EKL567890123",
+    "civilite": "Madame",
+    "nom": "Smith",
+    "prenom": "Alice",
+    "energyType": "GAZ"
+  },
+  {
+    "type": "pro",
+    "referenceClient": "EKL345678901",
+    "siret": "345678901",
+    "raisonSociale": "Entreprise 123",
+    "ca": 2000000.0,
+    "energyType": "ELECTRICITY_GAZ"
+  },
+  {
+    "type": "particulier",
+    "referenceClient": "EKL678901234",
+    "civilite": "Monsieur",
+    "nom": "Johnson",
+    "prenom": "Bob",
+    "energyType": "GAZ"
+  }
+]
